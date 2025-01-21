@@ -1,4 +1,3 @@
-// serving project in dev and prod mode
 
 # Todo Tasks list
 
